@@ -37,6 +37,10 @@
     "price": {
       "type": "float",
       "required": true
+    },
+    "tag": {
+      "type": "string",
+      "required": true
     }
   }
 }
